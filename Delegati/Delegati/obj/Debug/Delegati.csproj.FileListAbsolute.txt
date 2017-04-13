@@ -1,0 +1,15 @@
+F:\VSProjects\Delegati\Delegati\obj\Debug\Delegati.csprojResolveAssemblyReference.cache
+F:\VSProjects\Delegati\Delegati\bin\Debug\Delegati, Func, Action, Lambda, ListMutators.exe.config
+F:\VSProjects\Delegati\Delegati\bin\Debug\Delegati, Func, Action, Lambda, ListMutators.exe
+F:\VSProjects\Delegati\Delegati\bin\Debug\Delegati, Func, Action, Lambda, ListMutators.pdb
+F:\VSProjects\Delegati\Delegati\obj\Debug\Delegati, Func, Action, Lambda, ListMutators.exe
+F:\VSProjects\Delegati\Delegati\obj\Debug\Delegati, Func, Action, Lambda, ListMutators.pdb
+D:\Workspace\C#\Delegati\Delegati\bin\Debug\Delegati, Func, Action, Lambda, ListMutators.exe.config
+D:\Workspace\C#\Delegati\Delegati\obj\Debug\Delegati, Func, Action, Lambda, ListMutators.exe
+D:\Workspace\C#\Delegati\Delegati\obj\Debug\Delegati, Func, Action, Lambda, ListMutators.pdb
+D:\Workspace\C#\Delegati\Delegati\bin\Debug\Delegati, Func, Action, Lambda, ListMutators.exe
+D:\Workspace\C#\Delegati\Delegati\bin\Debug\Delegati, Func, Action, Lambda, ListMutators.pdb
+D:\Workspace\C#\Delegati\Delegati\obj\Debug\Delegati.csprojResolveAssemblyReference.cache
+D:\GitRepo\CSharp-Delegates-Action-Func-Lambda\Delegati\Delegati\bin\Debug\Delegati, Func, Action, Lambda, ListMutators.exe.config
+D:\GitRepo\CSharp-Delegates-Action-Func-Lambda\Delegati\Delegati\obj\Debug\Delegati, Func, Action, Lambda, ListMutators.exe
+D:\GitRepo\CSharp-Delegates-Action-Func-Lambda\Delegati\Delegati\obj\Debug\Delegati, Func, Action, Lambda, ListMutators.pdb
